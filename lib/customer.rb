@@ -1,5 +1,4 @@
 class Customer
-  class Customer
   attr_accessor :name, :age
  
   @@all = []
@@ -46,6 +45,5 @@ class Customer
     end
     oldest_customer
   end
- 
-end
+ end
 end
